@@ -6,6 +6,7 @@
 - Visual Studio Code
 - NAVER Whale
 - zsh
+- Oh My Zsh
 - Node.js
 - Pip3
 - npm
@@ -13,3 +14,7 @@
 - yarn
 - OpenSSH-Server
 
+## 각종 설정 파일
+- **아래 설정 파일들을 사용하여 설정합니다.**
+- .zshrc
+- vscode-server
